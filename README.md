@@ -2,9 +2,11 @@
 ## internal & external : Offsets Dumper
 
 - Build
-```mkdir build && cd build
+
+``` mkdir build && cd build
 cmake ..
-make```
+make
+```
 
 this gives you libinternal.so/internal.dll (inject this)
 external (standalone exe)
