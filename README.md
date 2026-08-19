@@ -1,7 +1,7 @@
 # Axomic | Roblox Dumper
 ## internal & external : Offsets Dumper
 
-> Build
+- Build
 ```mkdir build && cd build
 cmake ..
 make```
@@ -10,7 +10,7 @@ this gives you libinternal.so/internal.dll (inject this)
 external (standalone exe)
 
 ### USAGE
-> external
+- external
 ``` ./external ```
 
 credits : Axom (me)
